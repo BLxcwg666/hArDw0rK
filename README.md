@@ -1,2 +1,1 @@
-# hArDw0rK
-This is a repo for Github Commit Green
+# 要不跑路吧
