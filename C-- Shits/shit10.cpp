@@ -5,6 +5,6 @@
 using namespace std;
 int main()
 {
-    cout << "这是一坨答辩" << endl;  //这也是一条注释
+    cout << "这是修复了的答辩" << endl;  //这也是一条注释
     return 0;
 }  //这也是一条注释
